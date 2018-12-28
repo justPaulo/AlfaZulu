@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AlfaZulu' target in the 'AlfaZulu' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
